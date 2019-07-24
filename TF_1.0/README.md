@@ -1,4 +1,2 @@
-1. Simple Linear Model
-([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model.ipynb))
-([Google Colab](https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model.ipynb))
-(somthing)
+1. Here i have accumalated material related to TF_2.0(computer vision) and traditional ML Algos, most of the codes are from Hvass labs, I have changed notebooks as per my requirement.
+2. For Tf_2.0 there is separate folder with my Deep learning work. 
